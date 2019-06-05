@@ -2,17 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c6733d0-aa0f-4de1-9ff9-c8974ad5e369" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection_operators/collect/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection_operators/to_list/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection_operators/to_map/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection_operators/to_multimap/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection_operators/to_sorted_list/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_complete/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_dispose/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_error/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_next/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_subscribe/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_success/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/error/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/on_error_return/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/on_error_return_item/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/retry/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/on_error_resume_on_next/Launcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Callable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Callable/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Completable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Completable/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/CompositeDisposable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/CompositeDisposable/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/ConnectableObservable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/ConnectableObservable/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/CreateFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/CreateFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/CreateFactoryError.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/CreateFactoryError.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Defer/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Defer/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Disposable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Disposable/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Disposable2/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Disposable2/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Empty/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Empty/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Error/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Error/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/IsDisposable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/IsDisposable/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Launcher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Launcher.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Maybe/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Maybe/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Never/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Never/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/SecondIntervals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/SecondIntervals.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Single/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Single/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/collect/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/collect/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/to_list/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_list/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/to_map/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_map/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/to_multimap/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_multimap/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/to_sorted_list/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_sorted_list/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/all/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/all/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/any/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/any/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/contains/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/contains/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/count/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/count/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/reduce/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/reduce/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/distinct/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/distinct/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/distinct_until_change/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/distinct_until_change/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/element_at/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/element_at/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/filter/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/filter/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/skip/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/skip/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/skip_while/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/skip_while/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/take/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/take/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/take_hot/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/take_hot/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/take_while/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/take_while/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/default_if_empty/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/default_if_empty/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/delay/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/delay/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/map/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/map/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/repeat/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/repeat/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/scan/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/scan/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/sorted/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/sorted/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/start_with/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/start_with/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/switch_if_empty/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/switch_if_empty/Launcher.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -31,96 +81,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/scan/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/all/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="43" />
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/any/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/contains/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/to_list/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/to_sorted_list/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state>
+              <caret column="59" selection-start-column="59" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/to_map/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/to_multimap/Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret column="59" selection-start-column="59" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/collect/Launcher.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/reduce/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -134,6 +170,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dispo</find>
+      <find>Disposing</find>
+      <find>package combining_observables.flat_map.merge_and_merge_with;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>package combining_observables.merging.flat_map;</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -145,16 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/filter/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/take/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/take_hot/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/skip/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/take_while/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/skip_while/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/distinct/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/distinct_until_change/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/element_at/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/supressing_operators/element_at/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/transforming_operators/map/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/transforming_operators/cast/Launcher.java" />
@@ -176,6 +213,36 @@
         <option value="$PROJECT_DIR$/src/main/java/collection_operators/to_map/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/collection_operators/to_multimap/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/collection_operators/collect/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basic_operators/Callable/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basic_operators/CompositeDisposable/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/error/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/on_error_return/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/on_error_return_item/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/on_error_resume_on_next/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/retry/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action_operators/do_on_next/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action_operators/do_on_error/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action_operators/do_on_complete/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action_operators/do_on_subscribe/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action_operators/do_on_dispose/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action_operators/do_on_success/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_success/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merge_and_merge_with/Launcher1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merge_and_merge_with/Launcher2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merge_and_merge_with/Launcher3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merge_and_merge_with/Launcher4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher4.java" />
       </list>
     </option>
   </component>
@@ -226,43 +293,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collection_operators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicOperators" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collection_operators" type="462c0819:PsiDirectoryNode" />
-              <item name="collect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicOperators" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collection_operators" type="462c0819:PsiDirectoryNode" />
-              <item name="to_map" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicOperators" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collection_operators" type="462c0819:PsiDirectoryNode" />
-              <item name="to_multimap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicOperators" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collection_operators" type="462c0819:PsiDirectoryNode" />
-              <item name="to_sorted_list" type="462c0819:PsiDirectoryNode" />
+              <item name="combining_observables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,19 +306,26 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559704425368" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559710131329" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/combining_observables/flat_map" />
+      <recent name="$PROJECT_DIR$/src/main/java/basic_operators" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="collection_operators.collect" />
-      <recent name="collection_operators.to_multimap" />
-      <recent name="collection_operators.to_map" />
-      <recent name="collection_operators.to_sorted_list" />
-      <recent name="reducing_operators.contains" />
+      <recent name="combining_observables.flat_map.merge_and_merge_with" />
+      <recent name="combining_observables.merge_and_merge_with" />
+      <recent name="action_operators.do_on_success" />
+      <recent name="action_operators.do_on_dispose" />
+      <recent name="action_operators.do_on_subscribe" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/basic_operators" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -302,13 +340,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Launcher">
-    <configuration name="Launcher (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection_operators.to_list.Launcher" />
+  <component name="RunManager" selected="Application.Launcher5">
+    <configuration name="Launcher1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combining_observables.merging.merge_and_merge_with.Launcher1" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection_operators.to_list.*" />
+          <option name="PATTERN" value="combining_observables.merging.merge_and_merge_with.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection_operators.to_sorted_list.Launcher" />
+    <configuration name="Launcher2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combining_observables.merging.merge_and_merge_with.Launcher2" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection_operators.to_sorted_list.*" />
+          <option name="PATTERN" value="combining_observables.merging.merge_and_merge_with.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection_operators.to_map.Launcher" />
+    <configuration name="Launcher3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combining_observables.merging.merge_and_merge_with.Launcher3" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection_operators.to_map.*" />
+          <option name="PATTERN" value="combining_observables.merging.merge_and_merge_with.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,12 +380,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection_operators.to_multimap.Launcher" />
+    <configuration name="Launcher4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combining_observables.merging.merge_and_merge_with.Launcher4" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection_operators.to_multimap.*" />
+          <option name="PATTERN" value="combining_observables.merging.merge_and_merge_with.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,64 +393,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="suppressing_operators.take_while.Launcher" />
+    <configuration name="Launcher5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combining_observables.merging.merge_and_merge_with.Launcher5" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="suppressing_operators.take_while.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection_operators.collect.Launcher" />
-      <module name="jclemus.BasicOperators.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection_operators.collect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="suppressing_operators.skip_while.Launcher" />
-      <module name="jclemus.BasicOperators.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="suppressing_operators.skip_while.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="suppressing_operators.distinct_until_change.Launcher" />
-      <module name="jclemus.BasicOperators.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="suppressing_operators.distinct_until_change.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="suppressing_operators.element_at.Launcher" />
-      <module name="jclemus.BasicOperators.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="suppressing_operators.element_at.*" />
+          <option name="PATTERN" value="combining_observables.merging.merge_and_merge_with.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,11 +408,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Launcher" />
-        <item itemvalue="Application.Launcher (5)" />
-        <item itemvalue="Application.Launcher (4)" />
-        <item itemvalue="Application.Launcher (3)" />
-        <item itemvalue="Application.Launcher (2)" />
+        <item itemvalue="Application.Launcher5" />
+        <item itemvalue="Application.Launcher4 (1)" />
+        <item itemvalue="Application.Launcher3 (1)" />
+        <item itemvalue="Application.Launcher2 (1)" />
+        <item itemvalue="Application.Launcher1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +427,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559274721947</updated>
       <workItem from="1559274725419" duration="654000" />
-      <workItem from="1559618001793" duration="7366000" />
+      <workItem from="1559618001793" duration="13028000" />
     </task>
     <task id="LOCAL-00001" summary="suppressing operators">
       <created>1559620609758</created>
@@ -464,11 +450,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559703203201</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="collection operators">
+      <created>1559704278014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559704278014</updated>
+    </task>
+    <task id="LOCAL-00005" summary="basic operators package">
+      <created>1559704458836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559704458836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8020000" />
+    <option name="totallyTimeSpent" value="13682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="0" />
@@ -483,7 +483,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -514,91 +514,20 @@
     <MESSAGE value="suppressing operators" />
     <MESSAGE value="transforming operators" />
     <MESSAGE value="reducing operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="reducing operators" />
+    <MESSAGE value="collection operators" />
+    <MESSAGE value="basic operators package" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic operators package" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/filter/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/take/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/take_hot/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/skip/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/take_while/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/skip_while/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/distinct/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/distinct_until_change/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suppressing_operators/element_at/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/cast/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/cast/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/map/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/map/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
@@ -608,28 +537,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/start_with/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/start_with/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/default_if_empty/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/default_if_empty/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/switch_if_empty/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/switch_if_empty/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/sorted/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/sorted/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
@@ -639,49 +568,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/delay/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/delay/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/repeat/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/repeat/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/count/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/count/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/reduce/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/reduce/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transforming_operators/scan/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/scan/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/all/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/all/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="43" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/any/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/any/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
@@ -691,14 +620,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reducing_operators/contains/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/contains/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/to_list/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_list/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
@@ -708,14 +637,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/to_sorted_list/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_sorted_list/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <caret line="8" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/to_map/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_map/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
@@ -725,15 +654,251 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/to_multimap/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_multimap/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection_operators/collect/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/collect/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/java/main/collection_operators/collect/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/observables_and_subscribers/Callable/Launcher.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/observables_and_subscribers/CompositeDisposable/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/error/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/on_error_return_item/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/on_error_return/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/on_error_resume_on_next/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/retry/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_next/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_error/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_complete/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_subscribe/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_dispose/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_success/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merge_and_merge_with/Launcher1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merge_and_merge_with/Launcher2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merge_and_merge_with/Launcher3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/flat_map/merge_and_merge_with/Launcher5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merge_and_merge_with/Launcher4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/flat_map/Launcher5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
