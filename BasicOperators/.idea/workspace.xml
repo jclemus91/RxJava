@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c6733d0-aa0f-4de1-9ff9-c8974ad5e369" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_complete/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_dispose/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_error/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_next/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_subscribe/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/action_operators/do_on_success/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/error/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/on_error_return/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/on_error_return_item/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/retry/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic_operators/on_error_resume_on_next/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Callable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Callable/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Completable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Completable/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/CompositeDisposable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/CompositeDisposable/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/ConnectableObservable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/ConnectableObservable/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/CreateFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/CreateFactory.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/CreateFactoryError.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/CreateFactoryError.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Defer/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Defer/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Disposable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Disposable/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Disposable2/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Disposable2/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Empty/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Empty/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Error/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Error/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/IsDisposable/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/IsDisposable/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Launcher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Launcher.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Maybe/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Maybe/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Never/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Never/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/SecondIntervals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/SecondIntervals.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_operators/Single/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observables_and_subscribers/Single/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/collect/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/collect/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/to_list/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_list/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/to_map/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_map/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/to_multimap/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_multimap/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection_operators/to_sorted_list/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/collection_operators/to_sorted_list/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/all/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/all/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/any/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/any/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/contains/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/contains/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/count/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/count/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reducing_operators/reduce/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/reducing_operators/reduce/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/distinct/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/distinct/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/distinct_until_change/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/distinct_until_change/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/element_at/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/element_at/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/filter/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/filter/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/skip/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/skip/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/skip_while/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/skip_while/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/take/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/take/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/take_hot/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/take_hot/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suppressing_operators/take_while/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/suppressing_operators/take_while/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/default_if_empty/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/default_if_empty/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/delay/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/delay/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/map/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/map/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/repeat/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/repeat/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/scan/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/scan/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/sorted/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/sorted/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/start_with/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/start_with/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transforming_operators/switch_if_empty/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_operators/transforming_operators/switch_if_empty/Launcher.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -146,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="136">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -249,7 +189,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="729" />
@@ -306,7 +246,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559710131329" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559710200588" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -427,7 +367,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559274721947</updated>
       <workItem from="1559274725419" duration="654000" />
-      <workItem from="1559618001793" duration="13028000" />
+      <workItem from="1559618001793" duration="13567000" />
     </task>
     <task id="LOCAL-00001" summary="suppressing operators">
       <created>1559620609758</created>
@@ -464,14 +404,22 @@
       <option name="project" value="LOCAL" />
       <updated>1559704458836</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-combining observables&#10;-">
+      <created>1559710181573</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559710181573</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13682000" />
+    <option name="totallyTimeSpent" value="14221000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -516,7 +464,8 @@
     <MESSAGE value="reducing operators" />
     <MESSAGE value="collection operators" />
     <MESSAGE value="basic operators package" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic operators package" />
+    <MESSAGE value="-combining observables&#10;-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-combining observables&#10;-" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -895,8 +844,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/combining_observables/merging/merge_and_merge_with/Launcher4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="136">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
