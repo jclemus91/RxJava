@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c6733d0-aa0f-4de1-9ff9-c8974ad5e369" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting/Launcher1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/refcount_share/Launcher1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/refcount_share/Launcher2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
@@ -35,45 +31,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/refcount_share/Launcher1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-              <folding>
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="249">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/refcount_share/Launcher2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+            <state relative-caret-position="237">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -109,11 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/collection_operators/to_multimap/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collection_operators/collect/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basic_operators/Callable/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basic_operators/CompositeDisposable/Launcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/error/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/on_error_return/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/on_error_return_item/Launcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/error_recovery_operators/on_error_resume_on_next/Launcher.java" />
@@ -160,6 +134,11 @@
         <option value="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher2.java" />
         <option value="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher3.java" />
         <option value="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/refcount_share/Launcher1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/refcount_share/Launcher2.java" />
       </list>
     </option>
   </component>
@@ -179,6 +158,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,20 +200,36 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="multicasting_replaying_caching" type="462c0819:PsiDirectoryNode" />
-              <item name="multicasting_with_operators" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconnect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicOperators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicOperators" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multicasting_replaying_caching" type="462c0819:PsiDirectoryNode" />
+              <item name="multicasting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicOperators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicOperators" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multicasting_replaying_caching" type="462c0819:PsiDirectoryNode" />
+              <item name="refcount_share" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561086510682" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561607552872" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -241,19 +238,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/combining_observables/flat_map" />
       <recent name="$PROJECT_DIR$/src/main/java/basic_operators" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="multicasting_replaying_caching.refcount_share" />
+      <recent name="multicasting_replaying_caching.autoconnect" />
       <recent name="multicasting_replaying_caching.multicasting_with_operators" />
       <recent name="combining_observables.grouping" />
       <recent name="combining_observables.with_latest_from" />
-      <recent name="combining_observables.combine_latest" />
-      <recent name="combining_observables.zipping" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/combining_observables/flat_map" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators" />
       <recent name="$PROJECT_DIR$/src/main/java/basic_operators" />
     </key>
   </component>
@@ -269,13 +266,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Launcher4">
-    <configuration name="Launcher1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.multicasting.Launcher1" />
+  <component name="RunManager" selected="Application.Launcher2 (1)">
+    <configuration name="Launcher1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.refcount_share.Launcher1" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multicasting_replaying_caching.multicasting.*" />
+          <option name="PATTERN" value="multicasting_replaying_caching.refcount_share.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.multicasting_with_operators.Launcher1" />
+    <configuration name="Launcher1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.autoconnect.Launcher1" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multicasting_replaying_caching.multicasting_with_operators.*" />
+          <option name="PATTERN" value="multicasting_replaying_caching.autoconnect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,11 +294,11 @@
       </method>
     </configuration>
     <configuration name="Launcher2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.multicasting_with_operators.Launcher2" />
+      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.refcount_share.Launcher2" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multicasting_replaying_caching.multicasting_with_operators.*" />
+          <option name="PATTERN" value="multicasting_replaying_caching.refcount_share.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,12 +306,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.multicasting_with_operators.Launcher3" />
+    <configuration name="Launcher2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.autoconnect.Launcher2" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multicasting_replaying_caching.multicasting_with_operators.*" />
+          <option name="PATTERN" value="multicasting_replaying_caching.autoconnect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.multicasting_with_operators.Launcher4" />
+    <configuration name="Launcher3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multicasting_replaying_caching.autoconnect.Launcher3" />
       <module name="jclemus.BasicOperators.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multicasting_replaying_caching.multicasting_with_operators.*" />
+          <option name="PATTERN" value="multicasting_replaying_caching.autoconnect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Launcher4" />
-        <item itemvalue="Application.Launcher3" />
         <item itemvalue="Application.Launcher2 (1)" />
-        <item itemvalue="Application.Launcher1 (3)" />
-        <item itemvalue="Application.Launcher1 (2)" />
+        <item itemvalue="Application.Launcher1 (1)" />
+        <item itemvalue="Application.Launcher3 (1)" />
+        <item itemvalue="Application.Launcher2" />
+        <item itemvalue="Application.Launcher1" />
       </list>
     </recent_temporary>
   </component>
@@ -359,6 +356,7 @@
       <workItem from="1559618001793" duration="14179000" />
       <workItem from="1560824942232" duration="247000" />
       <workItem from="1561079831692" duration="4119000" />
+      <workItem from="1561605972547" duration="1979000" />
     </task>
     <task id="LOCAL-00001" summary="suppressing operators">
       <created>1559620609758</created>
@@ -416,17 +414,24 @@
       <option name="project" value="LOCAL" />
       <updated>1561083790711</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-multicasting">
+      <created>1561606219120</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561606219123</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19199000" />
+    <option name="totallyTimeSpent" value="21178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -435,7 +440,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -474,49 +479,12 @@
     <MESSAGE value="basic operators package" />
     <MESSAGE value="-combining observables&#10;-" />
     <MESSAGE value="-combining observables" />
-    <option name="LAST_COMMIT_MESSAGE" value="-combining observables" />
+    <MESSAGE value="-multicasting" />
+    <option name="LAST_COMMIT_MESSAGE" value="-multicasting" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/observables_and_subscribers/Callable/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/observables_and_subscribers/CompositeDisposable/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/error/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/on_error_return_item/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/on_error_return/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/on_error_resume_on_next/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/basic_operators/error_recovery_operators/retry/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -764,18 +732,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-          </folding>
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -790,10 +754,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/multicasting_with_operators/Launcher4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        <state relative-caret-position="289">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/autoconnect/Launcher3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/refcount_share/Launcher1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multicasting_replaying_caching/refcount_share/Launcher2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
